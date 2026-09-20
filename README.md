@@ -1,4 +1,4 @@
-# Olá! Eu sou Guilherme Felipe
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=237DFF&vCenter=true&width=500&height=40&lines=Ol%C3%A1!+Eu+sou+Guilherme+Felipe+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 Estudante de **Engenharia de Software** na **Universidade Federal do Cariri (UFCA)**.
 Atualmente estudando **Python, Java e C**.
